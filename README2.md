@@ -1,7 +1,7 @@
 # -2-in-GameDev-# АНАЛИЗ ДАННЫХ В РАЗРАБОТКЕ ИГР ЛАБОРАТОРНАЯ РАБОТА 2 [in GameDev]
 Отчет по лабораторной работе #2 выполнил:
-- Шайдуров Савелий Сергеевич
-- АТ-05
+- Ваниковский Олег Анатольевич
+- НМТ-231801
 Отметка о выполнении заданий :
 
 | Задание | Выполнение | Баллы |
@@ -16,7 +16,7 @@
 
 ##Структура отчета
 
-- #Данные о работе: Работа #2. Шайдуров Савелий Сергеевич, Выполнены задачи 1,2,3,4
+- #Данные о работе: Работа #2. Ваниковский Олег Анатольевич, Выполнены задачи 1,2,3,4
 - #Научиться передавать в Unity данные из Google Sheets с помощью Python.
 
   
@@ -33,7 +33,8 @@
 - Скопировать адрес сервисного аккаунта.
 - создать Google-таблицу и доступ к ней для редактирования с созданного сервисного аккаунта.
   
-![image](https://github.com/user-attachments/assets/ff074409-5bb2-4bad-8f1b-8634cba7383d)
+![image_2024-12-22_20-56-52](https://github.com/user-attachments/assets/187ddae6-90f2-4b67-bab7-5044276a08a1)
+
 
 
 
@@ -44,17 +45,19 @@
 - Запустить Jupyter Notebook и создать новый .ipynbфайл. 
 - В .ipynb файле реализовать передачу данных в созданную ранее Google-таблицу.
 
-![image](https://github.com/user-attachments/assets/9391666f-dabe-4f65-b7fc-720b4469fcc8)
+![image_2024-12-22_20-56-52 (2)](https://github.com/user-attachments/assets/7935b93e-82c7-4e47-8881-221150b9f937)
 
-![image](https://github.com/user-attachments/assets/6e94c25f-58a9-48c6-8f06-fe760d06d95f)
+![image_2024-12-22_20-56-52 (3)](https://github.com/user-attachments/assets/8ee1dfcf-0854-4f77-866c-0c50b18b629f)
 
-![image](https://github.com/user-attachments/assets/78a30e63-80e6-4a10-9498-907ad5dac3e2)
+![image_2024-12-22_20-56-52 (4)](https://github.com/user-attachments/assets/1a11094f-8286-40a2-9901-f6e271cadbd9)
+
 
 
 - # Задание 3.Создание ключа API для передачи данных из google-таблицы в Unity
 - Создать ключ API для получения данных из таблиц и их обработки в Unity.
 
-  ![image](https://github.com/user-attachments/assets/467b507b-f0a1-40c8-957a-a1f7d2b8a9aa)
+![image_2024-12-22_20-56-52 (5)](https://github.com/user-attachments/assets/2d69b1e2-23ed-49cf-b2f3-eb30cd3d2fa4)
+
 
 
 - # Задание 4. 4 Новый проект на Unity
@@ -62,8 +65,10 @@
 - Добавить в файлы проекта jsonPackage и soundPackage.
 - Создать на сцене Unity пустой GameObjectи подключите к ней .csскрипт, в котором подключение к Google-таблице по API и подать сигнал в игру в соответствии со считываемыми значениями:
   
-![image](https://github.com/user-attachments/assets/4750b8ec-8e83-44ba-bf83-fb0c66a8fd4f)
-![image](https://github.com/user-attachments/assets/cf8c7f3c-3a4e-43bc-9be7-804e028c9137)
+
+![image_2024-12-22_21-01-44](https://github.com/user-attachments/assets/36d23b8f-45db-4ada-88a8-fbe9864d93b6)
+![image_2024-12-22_21-10-48](https://github.com/user-attachments/assets/136754c3-6492-4a6c-89b9-4dc5a9e2071c)
+
 
 
 ## Выводы
